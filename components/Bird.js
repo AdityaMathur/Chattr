@@ -15,8 +15,8 @@ const Bird = props => {
     return(
         <View style={{
             borderWidth: 1,
-            borderColor: "yellow",
-            backgroundColor:"yellow",
+            borderColor: "pink",
+            backgroundColor:"pink",
             borderStyle: 'solid',
             position: 'absolute',
             left: xBody,

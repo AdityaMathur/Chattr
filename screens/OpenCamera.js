@@ -1,5 +1,5 @@
 import React, {PureComponent} from 'react';import {RNCamera} from 'react-native-camera';
-export default class OpenCamera extends PureComponent {  constructor(props) {
+export default class App extends PureComponent {  constructor(props) {
   super(props);}
 render() {
   return (
@@ -18,4 +18,3 @@ render() {
       }} />
     );
   }}
-  export default OpenCamera;

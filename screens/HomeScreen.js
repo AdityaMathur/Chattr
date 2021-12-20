@@ -49,9 +49,9 @@ const [chats,setChats]= useState([]);
                     marginRight: 20,
                 } }>
                     <TouchableOpacity 
-                    onPress={() => navigation.navigate("OpenCamera")}
+                    onPress={() => navigation.navigate("Camera")} 
                     activeOpacity={0.5}>
-                        <AntDesign name="camerao" size={24} color="black" />
+                    <SimpleLineIcons name="camera" size={24} color="black" />
                     </TouchableOpacity>
                     <TouchableOpacity 
                     onPress={() => navigation.navigate("AddChat")} 
