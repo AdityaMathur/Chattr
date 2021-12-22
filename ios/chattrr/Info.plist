@@ -22,6 +22,17 @@
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleURLTypes</key>
+    NSCameraUsageDescription Your message to user when the camera is accessed for the first time
+
+NSPhotoLibraryUsageDescription Your message to user when the photo library is accessed for the first time
+
+NSMicrophoneUsageDescription Your message to user when the microphone is accessed for the first time
+NSPhotoLibraryAddUsageDescription Your message to user when the photo library is accessed for the first time
+<key>NSCameraUsageDescription</key>
+<string>For taking photos</string>
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>For saving photos</string>
     <array>
       <dict>
         <key>CFBundleURLSchemes</key>

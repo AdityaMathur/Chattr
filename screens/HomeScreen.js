@@ -30,7 +30,7 @@ const [chats,setChats]= useState([]);
 
     useLayoutEffect(() => {
         navigation.setOptions({
-            title:"Chatter",
+            title:"GroupMe",
             headerStyle: { backgroundColor: "#fff"},
             headerTitleStyle: {color:"black"},
             headerTintColor:"black",

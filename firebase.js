@@ -3,12 +3,12 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCyhdHRIIjqd4zLFLIvJaU8v6UxR4MCFjo",
-    authDomain: "signall-350ed.firebaseapp.com",
-    projectId: "signall-350ed",
-    storageBucket: "signall-350ed.appspot.com",
-    messagingSenderId: "245646058101",
-    appId: "1:245646058101:web:1462f0becbedaddddb0e3c"
+    apiKey: "AIzaSyDqdGcVD30I73DAcO4Q8SChLY1396pyWyo",
+    authDomain: "projectfinal-85969.firebaseapp.com",
+    projectId: "projectfinal-85969",
+    storageBucket: "projectfinal-85969.appspot.com",
+    messagingSenderId: "1090216754016",
+    appId: "1:1090216754016:web:fb08dabea37dafc1a4fc05"
   };
 let app;
 if(firebase.apps.length ===0){
